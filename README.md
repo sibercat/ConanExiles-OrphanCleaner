@@ -65,7 +65,3 @@ q. Quit
 - Deleted files are permanently removed — there is no recycle bin step
 
 ---
-
-## Made By
-
-Sibercat
