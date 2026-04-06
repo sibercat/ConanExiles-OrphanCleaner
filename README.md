@@ -59,7 +59,6 @@ q. Quit
 ## Notes
 
 - Your mod folder path is saved in `file_manager_config.json` next to the script
-- A backup of the config is kept as `file_manager_config.json.backup`
 - Deleted files are permanently removed — there is no recycle bin step
 
 ---
