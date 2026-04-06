@@ -6,7 +6,7 @@ A cleanup tool for Conan Exiles mod developers. Scans your mod folder and remove
 
 ## The Problem
 
-When you delete an asset in UE4 (the Conan Exiles DevKit), the engine does not always fully clean up after itself. It leaves behind tiny stub `.uasset` files — typically under 1KB — that contain no real asset data. These orphaned stubs can cause **"Missing cooked file"** errors when packaging or running your mod.
+When you delete an asset in UE4 (the Conan Exiles DevKit), the engine does not always fully clean up after itself. It leaves behind tiny stub `.uasset` files — typically under 1KB — that contain no real asset data. These orphaned stubs can cause **"Missing cooked file"** errors when packaging.
 
 ## How It Works
 
