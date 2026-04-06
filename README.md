@@ -22,8 +22,6 @@ A file is flagged as an orphaned stub if it:
 ## Requirements
 
 - Python 3.x
-- Conan Exiles DevKit (UE4)
-
 ---
 
 ## Usage
